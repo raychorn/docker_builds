@@ -1,3 +1,3 @@
 echo @off
 
-docker build -t ubuntu_ng - < Dockerfile
+docker build −t "raychorn/ubuntu_python:ubuntu_python" - < Dockerfile

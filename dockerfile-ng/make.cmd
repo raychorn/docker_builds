@@ -1,3 +1,3 @@
 echo @off
 
-docker build -t ubuntu_python38 - < Dockerfile
+docker build -t "raychorn/npm_ng:npm_ng" - < Dockerfile
