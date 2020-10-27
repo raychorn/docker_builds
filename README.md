@@ -9,7 +9,7 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+See also: [docker-hub](https://hub.docker.com/repository/docker/raychorn)
 
 ## Getting Started <a name = "getting_started"></a>
 
